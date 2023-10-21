@@ -4,6 +4,7 @@ A simple React app built with React & React Router Dom.
 
 ## Live Link
 Hosted in Netlify -> [proReader](https://proreader.netlify.app/)
+Live Link ==>> https://653453be062e1b7d3f11a08c--chimerical-horse-bf502a.netlify.app
 
 ## API 
 
